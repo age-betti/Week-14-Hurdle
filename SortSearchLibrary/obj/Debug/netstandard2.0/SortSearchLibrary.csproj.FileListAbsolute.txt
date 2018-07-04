@@ -1,0 +1,9 @@
+H:\Other\Uni\Diploma\Semester 1\Programming\Week 14 - NeedToComplete\Week14Hurdle_101644658\SortSearchLibrary\obj\Debug\netstandard2.0\SortSearchLibrary.csprojAssemblyReference.cache
+H:\Other\Uni\Diploma\Semester 1\Programming\Week 14 - NeedToComplete\Week14Hurdle_101644658\SortSearchLibrary\obj\Debug\netstandard2.0\SortSearchLibrary.csproj.CoreCompileInputs.cache
+H:\Other\Uni\Diploma\Semester 1\Programming\Week 14 - NeedToComplete\Week14Hurdle_101644658\SortSearchLibrary\obj\Debug\netstandard2.0\SortSearchLibrary.AssemblyInfoInputs.cache
+H:\Other\Uni\Diploma\Semester 1\Programming\Week 14 - NeedToComplete\Week14Hurdle_101644658\SortSearchLibrary\obj\Debug\netstandard2.0\SortSearchLibrary.AssemblyInfo.cs
+H:\Other\Uni\Diploma\Semester 1\Programming\Week 14 - NeedToComplete\Week14Hurdle_101644658\SortSearchLibrary\bin\Debug\netstandard2.0\SortSearchLibrary.deps.json
+H:\Other\Uni\Diploma\Semester 1\Programming\Week 14 - NeedToComplete\Week14Hurdle_101644658\SortSearchLibrary\bin\Debug\netstandard2.0\SortSearchLibrary.dll
+H:\Other\Uni\Diploma\Semester 1\Programming\Week 14 - NeedToComplete\Week14Hurdle_101644658\SortSearchLibrary\bin\Debug\netstandard2.0\SortSearchLibrary.pdb
+H:\Other\Uni\Diploma\Semester 1\Programming\Week 14 - NeedToComplete\Week14Hurdle_101644658\SortSearchLibrary\obj\Debug\netstandard2.0\SortSearchLibrary.dll
+H:\Other\Uni\Diploma\Semester 1\Programming\Week 14 - NeedToComplete\Week14Hurdle_101644658\SortSearchLibrary\obj\Debug\netstandard2.0\SortSearchLibrary.pdb
